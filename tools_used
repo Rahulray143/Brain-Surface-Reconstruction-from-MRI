@@ -1,0 +1,5 @@
+ITK-SNAP – Used for brain tissue segmentation and masking from MRI volumes.
+
+3D Slicer – Used for MRI preprocessing, registration, volume reconstruction, and 3D visualization.
+
+MeshLab – Used for mesh processing, surface visualization, and extraction of surface and volume measurements
