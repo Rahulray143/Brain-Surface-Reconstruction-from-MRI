@@ -1,7 +1,7 @@
 # Brain-Surface-Reconstruction-from-MRI
 3D brain surface reconstruction from MRI using medical imaging tools for volume and mesh analysis.
 
-# 3D Brain Surface Reconstruction from MRI Data 🧠
+# Brain Surface Reconstruction from MRI Data 🧠
 
 This project demonstrates the complete workflow of **3D brain surface reconstruction** starting from raw MRI slices to a final **3D mesh model**.
 
